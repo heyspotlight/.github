@@ -13,6 +13,10 @@
   </p>
 </div>
 
+[![linkedin](https://img.shields.io/badge/linkedin-a?logo=linkedin&style=for-the-badge&color=blue&labelColor=blue)](https://www.linkedin.com/company/heyspotlight/)
+[![x](https://img.shields.io/badge/@fireviewdev-a?logo=x&style=for-the-badge&color=gray&labelColor=gray)](https://twitter.com/hey_spotlight)
+[![email](https://img.shields.io/badge/info@firecompany%2Eco-a?logo=gmail&style=for-the-badge&color=white&labelColor=white)](mailto:info@heyspotlight.com)
+
 <div align="center">
-  <h3>© 2026 Spotlight Tech Inc.</h3>
+  <h3>© 2026 Spotlight Labs Inc.</h3>
 </div>
