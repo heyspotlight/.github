@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" alt="Spotlight" src="https://i.pinimg.com/1200x/41/d0/12/41d01262ea553f2c4b24ce0bb3da1482.jpg" />
+  <img width="600" alt="Spotlight" src="[https://i.pinimg.com/1200x/41/d0/12/41d01262ea553f2c4b24ce0bb3da1482.jpg](https://i.pinimg.com/1200x/0f/88/5a/0f885aa6e259273f74527b6c1e22b895.jpg)" />
 
   <h1>Experience the World, Differently.</h1>
 
