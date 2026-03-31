@@ -14,5 +14,5 @@
 </div>
 
 <div align="center">
-  <h3>© 2026 Vibe Marketplace, Inc.</h3>
+  <h3>© 2026 Vibe Platforms, Inc.</h3>
 </div>
